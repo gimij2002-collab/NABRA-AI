@@ -4,6 +4,15 @@
 
 NABRA AI converts recorded conversations into transcripts, identifies speakers, classifies customer and agent roles, summarizes the conversation, and presents results in a Streamlit dashboard.
 
+## Project files for reviewers
+
+- [Final Colab notebook](notebooks/NABRA_AI_Final.ipynb) — published with outputs cleared; its G3 and H1 cells write the final application sources.
+- [Technical report (PDF)](docs/NABRA_AI_Final_Report.pdf) — full capstone report.
+- [Streamlit dashboard](app/app.py) — original NABRA AI dashboard with five tabs.
+- [Call-analysis pipeline](app/callsense_pipeline.py) — backend processing and model integration.
+
+**Evaluation note:** The report contains results from an earlier research experiment, while the latest Colab run has different measurements. These should not be treated as a single evaluation run. The PDF also contains three marked placeholders for Streamlit screenshots on its page 10. The repository does not include raw recordings, private transcripts, HF credentials, or model weights.
+
 ## Components
 
 - **Whisper** — speech-to-text transcription.
