@@ -1,0 +1,51 @@
+# Secrets and local credentials
+.env
+.env.*
+!.env.example
+*token*
+*secret*
+*.pem
+*.key
+credentials.json
+service_account*.json
+
+# Python / Colab
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.cache/
+.pytest_cache/
+
+# Raw audio, input records, private transcripts and outputs
+/data/
+/outputs/
+/reports/
+/evaluation/
+/project_backup/
+/models/
+/checkpoints/
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.rar
+*.zip
+*.7z
+*.jsonl
+*.parquet
+
+# Large model files and training artifacts
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.onnx
+optimizer.pt
+
+# Notebook artifacts / local files
+/content/
+.DS_Store
+Thumbs.db
