@@ -3,6 +3,12 @@
 **AI-powered analysis of recorded customer-service calls.**
 
 NABRA AI converts recorded conversations into transcripts, identifies speakers, classifies customer and agent roles, summarizes the conversation, and presents results in a Streamlit dashboard.
+## Project Team
+
+- **Ghada Mohammed**
+- **Lujain Abdullah**
+- **Dalal Ibn-Muteq**
+
 ## 🎬 Project Demo
 
 
