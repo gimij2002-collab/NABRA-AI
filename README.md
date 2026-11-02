@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/nabra-logo-light.png" alt="NABRA AI Logo" width="140">
+  <img src="assets/nabra-logo.svg" alt="NABRA AI Logo" width="140">
 </p>
 
 # NABRA AI | نبرة
