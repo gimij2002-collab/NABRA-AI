@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/nabra-logo-light.png" alt="NABRA AI Logo" width="140">
+</p>
+
 # NABRA AI | نبرة
 
 **AI-powered analysis of recorded customer-service calls.**
