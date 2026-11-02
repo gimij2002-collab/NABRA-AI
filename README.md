@@ -15,8 +15,7 @@ NABRA AI converts recorded conversations into transcripts, identifies speakers, 
 
 ## 🎬 Project Demo
 
-
-https://github.com/user-attachments/assets/219a2e96-c5bc-4ee0-b304-650b6d53b12a
+https://github.com/user-attachments/assets/6c78782d-eed7-451c-9040-233627bfc3d1
 
 
 ## Project files for reviewers
